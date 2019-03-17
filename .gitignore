@@ -2,4 +2,5 @@
 .ipynb_checkpoints
 .idea
 *.csv
+*.txt
 site_dic.pkl
